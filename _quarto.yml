@@ -1,0 +1,18 @@
+project:
+  type: "website"
+
+
+website:
+  title: "Seaside chats: Psychological safety"
+
+  navbar:
+    left:
+      - text: "About"
+        href: "about.md"
+
+
+format:
+  html:
+    theme: "cosmo"
+    css: "styles.css"
+    toc: true
