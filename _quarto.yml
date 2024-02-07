@@ -7,8 +7,7 @@ website:
 
   navbar:
     left:
-      - text: "About"
-        href: "about.md"
+      - text: "Placeholder"
 
 
 format:
