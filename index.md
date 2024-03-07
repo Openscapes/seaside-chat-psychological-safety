@@ -34,14 +34,8 @@ leading the discussion.
 
 ## What is psychological safety?
 
-:::{.callout-note}
-TODO: Add some reference material, maybe a research paper, about what psychological
-safety is. Catherine Hicks might have one that's useful, but I think most of her
-research is software development focused.
-:::
-
-Psychological safety is the degree to which people feel comfortable speaking about
-sensitive subjects without fear of negative consequences.
+[Openscapes defines psychological safety](https://openscapes.github.io/series/core-lessons/team-culture.html#psychological-safety) 
+as a shared belief that team members will not be rejected or embarrassed for speaking up with their ideas, questions, or concerns.
 
 For example, many of us have experienced traumatic hyper-critical environments
 (academia, ...) that have resulted in low levels of psychological safety. Often, we feel
