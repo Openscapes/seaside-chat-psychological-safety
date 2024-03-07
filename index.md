@@ -22,6 +22,13 @@ leading the discussion.
 * Wrap-up / prep next meeting: 5 minutes
 
 
+## Cadence
+
+:::{.callout-note}
+TODO: We haven't yet decided on a cadence. Should we meet monthly to provide a long-term
+supportive space?
+:::
+
 #### Discussion format
 
 * Gather ideas people want to talk about in some shared space, e.g. Google Doc,
@@ -38,7 +45,7 @@ leading the discussion.
 as a shared belief that team members will not be rejected or embarrassed for speaking up with their ideas, questions, or concerns.
 
 For example, many of us have experienced traumatic hyper-critical environments
-(academia, ...) that have resulted in low levels of psychological safety. Often, we feel
+(academia, high pressured meetings and presentations) that have resulted in low levels of psychological safety. Often, we feel
 uncomfortable or self-conscious speaking up because we're worried about how people will
 respond.
 
@@ -52,9 +59,8 @@ Good _and_ bad interactions can be self-reinforcing or contagious. Our actions c
 establish virtuous cycles. Let's talk about what we want to see.
 
 
-## Cadence
+## Reference
 
-:::{.callout-note}
-TODO: We haven't yet decided on a cadence. Should we meet monthly to provide a long-term
-supportive space?
-:::
+* [What Is Psychological Safety?](https://hbr.org/2023/02/what-is-psychological-safety)
+
+
