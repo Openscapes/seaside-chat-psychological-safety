@@ -63,5 +63,4 @@ establish virtuous cycles. Let's talk about what we want to see.
 
 * [What Is Psychological Safety?](https://hbr.org/2023/02/what-is-psychological-safety)
 * [Wikipedia entry: "Psychological safety"](https://en.wikipedia.org/wiki/Psychological_safety)
-
-
+* [TEDxHGSE: Building a psychologically safe workplace](https://www.youtube.com/watch?v=LhoLuui9gX8)
