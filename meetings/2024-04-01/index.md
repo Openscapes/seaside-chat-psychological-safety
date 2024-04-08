@@ -79,6 +79,8 @@ _TODO: Finish!_
 ## Action items
 
 * [ ] Start a discussion (GH Discussions? Slack?) about next topic
+    * <https://github.com/Openscapes/seaside-chat-psychological-safety/issues/3>
 * [ ] Tentatively schedule a meeting in ~3 months
+    * <https://github.com/Openscapes/seaside-chat-psychological-safety/issues/2>
 - [x] Summarize discussion on GitHUb / website (no names, experiences, or anecdotes will be
   shared - just a summary of concepts we've explored)
